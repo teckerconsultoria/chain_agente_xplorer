@@ -1,0 +1,5 @@
+{
+  "name": "ChainAgent Explorer",
+  "description": "An AI-powered blockchain explorer agent that analyzes wallets, transactions, and token transfers using the Moralis API and Gemini Function Calling.",
+  "requestFramePermissions": []
+}
